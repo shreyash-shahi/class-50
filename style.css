@@ -1,0 +1,31 @@
+h1{
+   color:brown; 
+}
+/* *{
+    border:solid;
+ }
+ */
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-around;
+}
+
+.grid{
+    background-color: crimson;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer{
+    background-color:cyan;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.description{
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+}
